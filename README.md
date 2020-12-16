@@ -2,7 +2,7 @@
 
 Create a web application that will retrieve, display, and save weather data for cities and plant data using HTML, CSS, Javascript, and jQuery.
 
-Deployment Link: https://karajsch.github.io/plant-scout/
+Deployment Link: https://github.com/tbell-woG/plant-scout.git
 
 Presentation Link: https://docs.google.com/presentation/d/1tnaGl0qNMopLVVeow6DjOGfsMx9vjwfVBM3WAzKWcNg/edit?usp=sharing
 
